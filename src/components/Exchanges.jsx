@@ -24,6 +24,7 @@ const Exchanges = () => {
         <Col span={6}>Change</Col>
       </Row>
       <Row>
+        <h2>💵 I need premium subscription for this API</h2>
         {/* {exchangesList.map((exchange) => (
           <Col span={24}>
             <Collapse>
