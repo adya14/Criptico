@@ -1,7 +1,7 @@
 # Cryptocurrency Information Website
 
 This is a React-based web application that provides information about various cryptocurrencies. It allows users to view details about individual cryptocurrencies, including their price, market cap, trading volume, and more. Users can also explore historical price data through interactive charts.
-It also shows latest new about Cryptocurr4ncoes to keep users updated.
+It also shows latest news about Cryptocurrencies to keep users updated.
 
 ## Preview
 
