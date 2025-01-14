@@ -5,7 +5,7 @@ It also shows latest news about Cryptocurrencies to keep users updated.
 
 ## Preview
 
-![Screenshot](./images/ss1.png)
+![Screenshot](./src/images/ss1.png)
 
 ## Features
 
